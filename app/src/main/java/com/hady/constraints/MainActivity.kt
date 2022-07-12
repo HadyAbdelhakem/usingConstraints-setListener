@@ -41,7 +41,7 @@ class MainActivity : AppCompatActivity() {
             R.id.box5 -> view.setBackgroundColor(Color.LTGRAY)
             R.id.redButton -> binding.box3.setBackgroundColor(Color.RED)
             R.id.greenButton -> binding.box4.setBackgroundColor(Color.GREEN)
-            R.id.yellowButton -> Toast.makeText(this , "Yellow" , Toast.LENGTH_SHORT).show()
+            R.id.yellowButton -> Toast.makeText(this , "Yellow OWW" , Toast.LENGTH_SHORT).show()
             /*binding.box5.setBackgroundColor(Color.YELLOW)*/
 
 
